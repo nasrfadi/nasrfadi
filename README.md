@@ -24,10 +24,10 @@
   <a href="https://www.facebook.com/fadi.ns96">
     <img width="50"   src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/150px-Facebook_f_logo_%282021%29.svg.png"/>
   </a>
-  <a href="your-insta">
+  <a href="https://wa.me/0096181879632">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/130px-WhatsApp.svg.png"/>
   </a>
-  <a href="https://wa.me/0096181879632">
+  <a href="">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png"/>
   </a>
 </div>
