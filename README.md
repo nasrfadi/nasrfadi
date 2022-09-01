@@ -27,7 +27,7 @@
   <a href="your-insta">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/130px-WhatsApp.svg.png"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://wa.me/0096181879632">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png"/>
   </a>
 </div>
