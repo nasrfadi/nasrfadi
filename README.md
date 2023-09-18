@@ -24,7 +24,7 @@
   <a href="https://www.facebook.com/fadi.ns96">
     <img width="50"   src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/150px-Facebook_f_logo_%282021%29.svg.png"/>
   </a>
-  <a href="https://wa.me/0096181879632">
+  <a href="https://wa.me/00971561565423">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/130px-WhatsApp.svg.png"/>
   </a>
   <a href="">
